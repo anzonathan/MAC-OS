@@ -4,4 +4,5 @@
 
 Bash Scripts and other useful tools for MacOS
 
-### - ![Software](https://github.com/anzonathan/MAC-OS/blob/main/Software.md) I find Usfeul 
+#### - ![Software](https://github.com/anzonathan/MAC-OS/blob/main/Software.md) I find Usfeul 
+#### - ![Partitioning a Disk](https://github.com/anzonathan/MAC-OS/blob/main/Partitioning%20a%20disk%20on%20MacOS%20terminal.md) using bash in the terminal
