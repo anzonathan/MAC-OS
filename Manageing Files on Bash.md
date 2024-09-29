@@ -1,4 +1,4 @@
-#File Mangagement on Terminal 
+# File Mangagement on Terminal 
 
 Making a directory
 
