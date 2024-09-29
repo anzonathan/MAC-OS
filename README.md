@@ -8,5 +8,5 @@ Bash Scripts and other useful tools for MacOS
 #### - [Disk utility](https://github.com/anzonathan/MAC-OS/blob/main/diskutil%20on%20MacOS%20terminal.md) using bash in the terminal
 #### - [Installing Node.js](https://github.com/anzonathan/MAC-OS/blob/main/Installing%20Node.md) using nvm.
 #### - [Viewing Processes in terminal](https://github.com/anzonathan/MAC-OS/blob/main/top.md).
-#### - [File Management on Bash](https://github.com/anzonathan/MAC-OS/blob/main/Manageing%20Files%20on%20Bash.md)
+#### - [File Management](https://github.com/anzonathan/MAC-OS/blob/main/Manageing%20Files%20on%20Bash.md) in Bash.
 
