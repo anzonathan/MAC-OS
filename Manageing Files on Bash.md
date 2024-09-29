@@ -3,7 +3,7 @@
 Making a directory
 
 ```bash
-mdir <Directory Name>
+mkdir <Directory Name>
 ```
 
 Removing an *empty* directory
