@@ -10,7 +10,7 @@ Bash Scripts and other useful tools for MacOS
 #### - [Viewing Processes in terminal](https://github.com/anzonathan/MAC-OS/blob/main/top.md).
 #### - [File Management](https://github.com/anzonathan/MAC-OS/blob/main/Manageing%20Files%20on%20Bash.md) in Bash.
 #### - [Top](https://github.com/anzonathan/MAC-OS/blob/main/top.md) commands. 
-#### - Changing [Shells](https://github.com/anzonathan/MAC-OS/blob/main/changing%20shells.md) 
+#### - [Changing Shells](https://github.com/anzonathan/MAC-OS/blob/main/changing%20shells.md) 
 
 
 
