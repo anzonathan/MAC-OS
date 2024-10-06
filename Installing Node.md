@@ -51,10 +51,7 @@ node --version
   ```
 
   another more complicated alternative is creating a ~/.zshrc file 
-  ```bash
-  
-  
-  ```
+
   <font color="#bd2d26">You may have to you use root priviallage via the sudo command</font>
   
   add this line to the ~/.zshrc file 
