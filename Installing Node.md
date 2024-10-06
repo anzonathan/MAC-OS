@@ -1,7 +1,7 @@
 
 ## Installing Node.js
 
-For some reason, my homebrew doesnot work so I had to install node via nvm. Here is how. 
+For some reason, my homebrew does not work so I had to install node via nvm. Here is how. 
 
 
 ```bash
