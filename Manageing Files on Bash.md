@@ -11,10 +11,14 @@ Removing an *empty* directory
 ```bash
 rmdir <Directory Name>
 ```
-
-Removing a *non-empty* directory
-
-
+or
 ```bash
 rm -d <Directory Name>
 ```
+
+Removing a *non-empty* directory
+```bash
+rm -rf <Directory Name>
+```
+
+
