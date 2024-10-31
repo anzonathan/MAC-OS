@@ -1,2 +1,5 @@
 
 - Screen Recording: Shift-Command-5
+
+Show ports on the pc
+-  ls /dev 
