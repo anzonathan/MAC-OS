@@ -14,5 +14,7 @@ Bash Scripts and other useful tools for MacOS
 #### - Make your computer [say stuff](https://github.com/anzonathan/MAC-OS/blob/main/changing%20shells.md) 
 #### - CLI [installer](https://www.macports.org/install.php)
 #### - [Commands](https://github.com/anzonathan/MAC-OS/blob/main/Commands)
+#### - [Ports Management]() via terminal 
+
 
 
