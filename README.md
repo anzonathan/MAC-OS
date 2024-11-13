@@ -16,6 +16,7 @@ Bash Scripts and other useful tools for MacOS
 #### - [Commands](https://github.com/anzonathan/MAC-OS/blob/main/Commands)
 #### - [Ports Management](https://github.com/anzonathan/MAC-OS/blob/main/Port%20Management.md) via terminal 
 #### - Getting your terminal to [say](https://github.com/anzonathan/MAC-OS/blob/main/say.md) stuff
+#### - [Command](https://github.com/anzonathan/MAC-OS/blob/main/Code%20Line%20Count.md) that count lines of code in a directory
 
 
 
